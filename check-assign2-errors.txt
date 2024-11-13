@@ -1,0 +1,70 @@
+WARNING:root:Cannot call Open vSwitch: ovsdb-server.service is not running.
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
+Warning: Permanently added 'server1-mgmt' (ED25519) to the list of known hosts.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.34.0 /usr/local/share/perl/5.34.0 /usr/lib/x86_64-linux-gnu/perl5/5.34 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.34 /usr/share/perl/5.34 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7, <> line 33.)
+debconf: falling back to frontend: Teletype
+dpkg-preconfigure: unable to re-open stdin: 
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+debconf: unable to initialize frontend: Dialog
+debconf: (TERM is not set, so the dialog frontend is not usable.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (This frontend requires a controlling tty.)
+debconf: falling back to frontend: Teletype
+dpkg-preconfigure: unable to re-open stdin: 
+Synchronizing state of apache2.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable apache2
+Synchronizing state of squid.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable squid
+/etc/netplan/10-lxc.yaml:5:24: Error in network definition: address '192.168.16.21' is missing /prefixlength
+            addresses: [192.168.16.21]
+                       ^
+cat: /home/dennis/.ssh/authorized_keys: No such file or directory
+grep: /home/dennis/.ssh/authorized_keys: No such file or directory
+cat: /home/aubrey/.ssh/authorized_keys: No such file or directory
+grep: /home/aubrey/.ssh/authorized_keys: No such file or directory
+cat: /home/captain/.ssh/authorized_keys: No such file or directory
+grep: /home/captain/.ssh/authorized_keys: No such file or directory
+cat: /home/snibbles/.ssh/authorized_keys: No such file or directory
+grep: /home/snibbles/.ssh/authorized_keys: No such file or directory
+cat: /home/brownie/.ssh/authorized_keys: No such file or directory
+grep: /home/brownie/.ssh/authorized_keys: No such file or directory
+cat: /home/scooter/.ssh/authorized_keys: No such file or directory
+grep: /home/scooter/.ssh/authorized_keys: No such file or directory
+cat: /home/sandy/.ssh/authorized_keys: No such file or directory
+grep: /home/sandy/.ssh/authorized_keys: No such file or directory
+cat: /home/perrier/.ssh/authorized_keys: No such file or directory
+grep: /home/perrier/.ssh/authorized_keys: No such file or directory
+cat: /home/cindy/.ssh/authorized_keys: No such file or directory
+grep: /home/cindy/.ssh/authorized_keys: No such file or directory
+cat: /home/tiger/.ssh/authorized_keys: No such file or directory
+grep: /home/tiger/.ssh/authorized_keys: No such file or directory
+cat: /home/yoda/.ssh/authorized_keys: No such file or directory
+grep: /home/yoda/.ssh/authorized_keys: No such file or directory
+/etc/netplan/10-lxc.yaml:5:24: Error in network definition: address '192.168.16.21' is missing /prefixlength
+            addresses: [192.168.16.21]
+                       ^
+Error: Command not found
+Error: Command not found
+Synchronizing state of apache2.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable apache2
+Synchronizing state of squid.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable squid
+/etc/netplan/10-lxc.yaml:5:24: Error in network definition: address '192.168.16.21' is missing /prefixlength
+            addresses: [192.168.16.21]
+                       ^
